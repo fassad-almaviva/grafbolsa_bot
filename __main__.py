@@ -1,5 +1,4 @@
 # -*- coding: utf-8 -*-
-
 DIRECTOTY_PACKAGE = 'grafbolsa_bot'
 HORARIOS_EXECUCAO = [ \
     '08:00', '08:30', \

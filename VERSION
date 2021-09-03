@@ -1,0 +1,20 @@
+name='grafbolsa_bot'
+version='1.0.0'
+url='https://github.com/Almaviva-do-Brasil/grafbolsa_bot'
+packages=[
+    'navegate'
+]
+install_requires=[
+    'selenium'
+,   'pandas'
+,   'bs4'
+]
+author=[
+    'Assad, Felipe'
+]
+author_email=[
+    'fassad@almavivadobrasil.com.br'
+]
+description=u'Sistema de coleta automatizada das informações do site grafbolsa usado para simulação, histórico e previsão da bolsa de valores'
+license='Almaviva do Brasil Licence'
+keywords=''
